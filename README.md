@@ -13,7 +13,7 @@ To ensure the safety and reliability of every unique car configuration before th
 
 I am tasked with reducing the time that cars spend on the test bench. I will be working with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. By developing optimal algorithms, I aim to contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Mercedes-Benz’s standards.
 
-## Actions to Perform
+## Actions Performed
 
 - Removal of Variables with Zero Variance: I removed any column(s) in the dataset where the variance was equal to zero.
 - Checking for Null and Unique Values: I checked the test and train sets for any null values or unique values.
