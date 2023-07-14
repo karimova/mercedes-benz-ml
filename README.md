@@ -15,11 +15,13 @@ I am tasked with reducing the time that cars spend on the test bench. I will be 
 
 ## Actions to Perform
 
-- If for any column(s), the variance is equal to zero, then you need to remove those variable(s).
-- Check for null and unique values for test and train sets.
-- Preprocess categorical features.
-- Perform dimensionality reduction.
-- Predict your test_df values using XGBoost.
+- Removal of Variables with Zero Variance: I removed any column(s) in the dataset where the variance was equal to zero.
+- Checking for Null and Unique Values: I checked the test and train sets for any null values or unique values.
+- Preprocessing Categorical Features: I performed preprocessing on the categorical features in the dataset to prepare them for further analysis. This likely included encoding categorical variables into numerical representations.
+- Dimensionality Reduction: I applied dimensionality reduction techniques to reduce the number of features in the dataset. This step helps in eliminating redundant or less informative features, improving computational efficiency, and reducing the risk of overfitting.
+- Prediction using XGBoost: I used the XGBoost algorithm to predict the values of the test_df dataset. XGBoost is a powerful gradient boosting algorithm commonly used for regression and classification tasks.
+
+By completing these steps, I have processed the data, handled missing values, transformed categorical features, reduced the dimensionality, and made predictions using XGBoost for the test dataset.
 
 ## Dataset
 
