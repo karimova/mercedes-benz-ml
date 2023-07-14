@@ -1,6 +1,5 @@
 # Mercedes-Benz Testing Time Prediction
-
-![Mercedes-Benz](p-7.jpg)
+<img src="p-7.jpg" alt="Mercedes-Benz" width="200">
 
 ## Description
 
